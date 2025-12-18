@@ -1,0 +1,7 @@
+{
+  "name": "HireVue AI - Career Catalyst Platform",
+  "description": "An all-in-one AI career suite featuring a real-time voice interview coach, resume optimizer, and grounded company research tool to help developers get hired faster.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
